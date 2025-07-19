@@ -12,7 +12,5 @@ This repository contains Python scripts for two tasks:
 ## How to Run
 1. Clone this repository
 2. Run the scripts using:
-    # Run task 1
-    python task1.py
-    # Run task 2
-    python task2.py
+    -python task1.py
+    -python task2.py
