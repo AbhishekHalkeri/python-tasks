@@ -8,7 +8,7 @@ d1=input("Enter additional text to append:")
 fo1.write(d1)
 print("Data successfully appended.")
 fo1.close()
-fo=open('sample.txt','r')
+fo=open('output.txt','r')
 lines=fo.read()
 for line in lines.splitlines(True):
     print(line)

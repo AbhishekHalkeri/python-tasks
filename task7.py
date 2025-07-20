@@ -5,6 +5,7 @@ try:
     # for i,line in enumerate(lines,start=1):
     #     print(f"Line {i}:{line}")
     lines=fo.read()
+    print("Reading file content:")
     for line in lines.splitlines(True):
          print(line)
 except FileNotFoundError:

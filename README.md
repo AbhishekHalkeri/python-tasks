@@ -22,6 +22,12 @@ This repository contains Python scripts for two tasks:
 ## Task 6
 - **File:** 'task6.py'
 - **Description:** 'Using the Math Module for Calculations'
+## Task 7
+- **File:** 'task7.py'
+- **Description:** 'Read a File and Handle Errors'
+## Task 8
+- **File:** 'task8.py'
+- **Description:** 'Write and Append Data to a File'
 
 ## How to Run
 1. Clone this repository
@@ -30,4 +36,9 @@ This repository contains Python scripts for two tasks:
     - python task2.py
     - python task3.py
     - python task4.py
+    - python task5.py
+    - python task6.py
+    - python task7.py
+    - python task8.py
+
     
