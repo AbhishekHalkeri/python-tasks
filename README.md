@@ -28,6 +28,12 @@ This repository contains Python scripts for two tasks:
 ## Task 8
 - **File:** 'task8.py'
 - **Description:** 'Write and Append Data to a File'
+## Task 9
+- **File:** 'task9.py'
+- **Description:** 'Create a Dictionary of Student Marks'
+## Task 10
+- **File:** 'task10.py'
+- **Description:** 'Demonstrate List Slicing'
 
 ## How to Run
 1. Clone this repository
@@ -40,5 +46,8 @@ This repository contains Python scripts for two tasks:
     - python task6.py
     - python task7.py
     - python task8.py
+    - python task9.py
+    - python task10.py
+    
 
     
