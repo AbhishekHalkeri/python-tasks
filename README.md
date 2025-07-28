@@ -34,6 +34,9 @@ This repository contains Python scripts for two tasks:
 ## Task 10
 - **File:** 'task10.py'
 - **Description:** 'Demonstrate List Slicing'
+## simple calculator using tkinter
+- **File:** 'simple Calculator.py'
+- **Description:** 'contains all simple operations.'
 
 ## How to Run
 1. Clone this repository
